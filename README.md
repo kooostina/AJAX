@@ -2,6 +2,8 @@
 
  #GET, POST, PUT, PATCH, DELETE
  
- #fetch
+ #xhr requests
  
- #axios
+ #fetch requests
+ 
+ #axios requests
